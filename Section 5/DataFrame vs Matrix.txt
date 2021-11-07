@@ -1,0 +1,3 @@
+Matrix converts vectors of different data types into one common data type. And allows only one data type throughout the matrix.
+Whereas, Data Frames allows us to store different data elements.
+In data frames, rows are numbered and columns have names.
